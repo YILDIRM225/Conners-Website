@@ -1,0 +1,96 @@
+body, html {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    color:darkblue
+}
+div{
+    box-sizing: border-box;
+
+    }
+
+    .aboutmetitle{
+        width:100;
+        background-color:lightskyblue;
+        color: black;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .aboutmeheader{
+        width: 200;
+        background-color:lightslategray;
+        color:white;
+        padding-top: 30px;
+        padding-bottom: 31px;
+        
+    }
+
+    .firstparagraph{
+        font-size: 12;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .mainpageheader{
+        width: 100;
+        background-color: cadetblue;
+        color:aliceblue;
+        padding-top: 20px;
+    }
+
+    .main-content {
+        background-color: darkturquoise;
+    }
+
+    .product{
+        font-size: 12px;
+        font-style: italic;
+        font-weight: normal;
+        margin-top: 0;
+
+    }
+
+    .links{
+        background-color: lightblue;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .library{
+        background-color: lightskyblue;
+        font-size: larger;
+        font-style: oblique;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .books{
+        background-color: lightcyan;
+        font-size: medium;
+        font-style: italic;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .why{
+        background-color: lightcyan
+        font-size 12;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .search{
+        background-color: lightslategrey;
+        font-size: larger;
+        font-style: inherit;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .category{
+        background-color: rgb(151, 175, 200);
+        padding-top: 20px;
+    }   
